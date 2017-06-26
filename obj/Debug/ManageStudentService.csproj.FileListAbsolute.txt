@@ -1,0 +1,6 @@
+D:\Brijesh\NET_Pappu_Priya_Chetasi\WebServices\ManageStudentService\ManageStudentService\bin\ManageStudentService.dll.config
+D:\Brijesh\NET_Pappu_Priya_Chetasi\WebServices\ManageStudentService\ManageStudentService\bin\ManageStudentService.dll
+D:\Brijesh\NET_Pappu_Priya_Chetasi\WebServices\ManageStudentService\ManageStudentService\bin\ManageStudentService.pdb
+D:\Brijesh\NET_Pappu_Priya_Chetasi\WebServices\ManageStudentService\ManageStudentService\obj\Debug\ManageStudentService.csprojResolveAssemblyReference.cache
+D:\Brijesh\NET_Pappu_Priya_Chetasi\WebServices\ManageStudentService\ManageStudentService\obj\Debug\ManageStudentService.dll
+D:\Brijesh\NET_Pappu_Priya_Chetasi\WebServices\ManageStudentService\ManageStudentService\obj\Debug\ManageStudentService.pdb
